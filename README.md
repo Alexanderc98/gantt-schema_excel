@@ -1,1 +1,1 @@
-# gantt-schema_excel
+# Schoolwork - created a gantt-schema in excel
